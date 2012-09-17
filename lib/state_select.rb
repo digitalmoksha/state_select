@@ -1,3 +1,4 @@
+# encoding: utf-8
 module ActionView::Helpers::FormOptionsHelper
 
   # Return select and option tags for the given object and method, using 
